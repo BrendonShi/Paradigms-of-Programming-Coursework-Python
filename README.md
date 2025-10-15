@@ -4,7 +4,7 @@ This project is a Python application designed to build a family tree from a CSV 
 
 ---
 
-## ✨ Features
+## Features
 
 -   **Object-Oriented Design**: Utilises classes for `Person`, `Relationship`, and `FamilyTree` to create a structured and logical model of the family data.
 -   **CSV Data Import**: Automatically builds the family tree by reading data from a `family_tree.csv` file.
@@ -14,7 +14,7 @@ This project is a Python application designed to build a family tree from a CSV 
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 The project is broken down into several key files, each with a specific responsibility.
 
@@ -30,7 +30,7 @@ The project is broken down into several key files, each with a specific responsi
 
 ---
 
-## ⚙️ How to Use
+## How to Use
 
 To get started with the application, follow these steps.
 
