@@ -2,6 +2,8 @@
 
 This project is a Python application designed to build a family tree from a CSV file and determine the relationships between any two individuals in the tree. It uses an object-oriented approach to model people and their connections, providing a clean and extensible way to explore genealogical data.
 
+![family tree](https://github.com/user-attachments/assets/8b6f081a-2c5b-4c8b-a19c-da3f2e6db468)
+
 ---
 
 ## Features
